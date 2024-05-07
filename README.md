@@ -1,4 +1,4 @@
-## what's goood!
+## what's goood! :D
 
 📚 I'm Alex and I'm an incoming third-year student majoring in Computer Science at UCI
 
