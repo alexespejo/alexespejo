@@ -1,4 +1,4 @@
-## what's goood!! :D
+## welcome :)
 
 📚 I'm Alex and I'm an incoming third-year student majoring in Computer Science at UCI
 
@@ -8,7 +8,7 @@
 
 👟 Fun fact: I'm a New Balance fanatic 
 
-## my toolkit 
+## my toolkit :D
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
