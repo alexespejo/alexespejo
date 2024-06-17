@@ -1,4 +1,4 @@
-## welcome :)
+## 💫 welcome
 
 📚 I'm Alex and I'm an incoming third-year student majoring in Computer Science at UCI
 
@@ -8,7 +8,7 @@
 
 👟 Fun fact: I'm a New Balance fanatic 
 
-## my toolkit :D
+## 🧰 my toolkit
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
@@ -23,7 +23,7 @@
 ![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
-### in progress ._. 
+### 👨‍💻 in progress 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
