@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning to be consistent with my tech stacks...
 
-👟 Fun fact: I'm a New Balance fanatic and I have a humble collection of Casio watches
+⚡️ Fun fact: I have a humble collection of Casio watches and New Balance sneakers
 
 ## 🧰 my toolkit
 
