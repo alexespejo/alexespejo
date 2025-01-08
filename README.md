@@ -1,4 +1,4 @@
-## 💫 welcome
+## 💫 hello
 
 📚 I'm Alex and I'm a third-year student majoring in Computer Science at UCI
 
@@ -8,7 +8,7 @@
 
 ⚡️ Fun fact: I have a humble collection of 3 Casio watches and 3 New Balance sneakers
 
-## 🧰 my toolkit
+## 🧰 toolkit
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
