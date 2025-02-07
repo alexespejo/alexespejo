@@ -6,7 +6,7 @@
 
 🫣 Closeted Vue enthusiast
 
-⚡️ Fun fact: I have a humble collection of 3 Casio watches and 3 New Balance sneakers
+⚡️ Fun fact: I have a humble collection of ~~3~~ 4 Casio watches and 3 New Balance sneakers
 
 ## 🧰 toolkit
 
