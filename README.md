@@ -4,8 +4,6 @@
 
 🔭 I’m always working on projects whether it be passion, group, and hackathon alike!
 
-🫣 Closeted Vue enthusiast
-
 ⚡️ Fun fact: I have a humble collection of ~~3~~ 4 Casio watches and 3 New Balance sneakers
 
 ## 🧰 toolkit
