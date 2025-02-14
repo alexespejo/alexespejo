@@ -1,5 +1,3 @@
-## 💫 hello
-
 📚 I'm Alex I'm a full-stack developer and a third-year student majoring in Computer Science at UCI
 
 🔭 I’m always working on projects whether it be passion, group, and hackathon alike!
