@@ -1,6 +1,6 @@
 📚 I'm Alex I'm a full-stack developer and a student at UCI majoring in Computer Science
 
-⚡️ Fun fact: I have a humble collection of ~~3~~ 4 Casio watches and 3 New Balance sneakers
+⌚️ Fun fact: I have a humble collection of ~~3~~ 4 Casio watches
 
 ## 🧰 toolkit
 
